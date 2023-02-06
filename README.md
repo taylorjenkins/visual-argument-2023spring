@@ -40,6 +40,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 * Refer to assigned readings in explaining your design choices, e.g. font pairings, hierarchical levels, etc
 * Be bright and bold to make your work pop and draw the eye
 * Be subtle and crafty to make your work reveal itself only gradually
+* Create a way to find out more information about topic of argument (e.g. QR code linking somewhere)
 
 
 
