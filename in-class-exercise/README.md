@@ -2,7 +2,7 @@
 
 The idea of this exercise is to practice extracting an image from its context, so you can repurpose it in another context.
 
-Starting with the [image of a balloon](in-class-exercise/beverly-and-pack--fly-me-to-the-moon.jpg) in this folder, experiment with the following GIMP tools / approaches to select just the balloon (or just the moon, etc). Once it's selected, you can copy it and paste it into a new layer where it can be resized, repositioned, recolored, etc.
+Starting with the image of a hot-air balloon in this folder (beverly-and-pack--fly-me-to-the-moon.jpg), experiment with the following GIMP tools / approaches to select just the balloon (or just the moon, etc). Once it's selected, you can copy it and paste it into a new layer where it can be resized, repositioned, recolored, etc.
 
 ## Selecting objects
 A few options to consider:
